@@ -31,13 +31,6 @@ p.day {
     font-size: 16px;
 }
 
-.legend {
-  position: absolute;
-  background-color: #fff;
-  z-index: 2000;
-  right: 0px;
-  width: 150px;
-}
 .custom-popup .leaflet-popup-content-wrapper {
   background:grey;
   color:#fff;
